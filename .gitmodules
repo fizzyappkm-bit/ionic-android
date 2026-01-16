@@ -1,0 +1,3 @@
+[submodule "ionic-source"]
+	path = ionic-source
+	url = https://github.com/fizzyappkm-bit/ionic.git
